@@ -8,4 +8,4 @@
 </span>
 &nbsp;
 
-I am a computer engineering student and intern @ [Kazap Tecnologia](https://github.com/Kazap) :)
+I am a computer engineering student and web developer @ [Kazap Tecnologia](https://github.com/Kazap) :)
