@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bellps&show_icons=true&count_private=true&theme=synthwave&hide=issues&hide_border=true&line_height=24&layout=compact" />
 </span>
 <span>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellps&layout=compact&theme=synthwave&count_private=true&hide_border=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellps&layout=compact&theme=synthwave&count_private=true&hide_border=true&card_width=250" />
 </span>
 &nbsp;
 
