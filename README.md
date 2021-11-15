@@ -1,11 +1,11 @@
 # Hi! I'm Bell <img src="https://dejpknyizje2n.cloudfront.net/marketplace/products/korean-finger-heart-i-love-you-sticker-1540401592.4178452.png" width="30px">
 
-<a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bellps&show_icons=true&count_private=true&theme=synthwave&hide=issues&hide_border=true&line_height=24&layout=compact" />
-</a>
-<a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellps&layout=compact&theme=synthwave&count_private=true&hide_border=true" />
-</a>
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bellps&show_icons=true&count_private=true&theme=synthwave&hide=issues&hide_border=true&line_height=24&layout=compact" />
+</span>
+<span>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellps&layout=compact&theme=synthwave&count_private=true&hide_border=true" />
+</span>
 &nbsp;
 
 I am a computer engineering student and web developer @ [Kazap Tecnologia](https://github.com/Kazap) :)
