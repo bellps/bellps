@@ -4,8 +4,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bellps&show_icons=true&count_private=true&theme=synthwave&hide=issues&hide_border=true&line_height=24&layout=compact" />
 </span>
 <span>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellps&layout=compact&theme=synthwave&count_private=true&hide_border=true&card_width=250" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellps&layout=compact&theme=synthwave&count_private=true&hide_border=true&card_width=270" />
 </span>
+
 &nbsp;
 
 I am a computer engineering student and web developer @ [Kazap Tecnologia](https://github.com/Kazap) :)
