@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellps&layout=compact&theme=synthwave&count_private=true&hide_border=true&card_width=290" />
 </span>
 
-
+&nbsp;
 
 I am a computer engineering student and web developer @ [Kazap Tecnologia](https://github.com/Kazap) :)
 
