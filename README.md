@@ -23,3 +23,6 @@ I am a computer engineering student and web developer @ [Kazap Tecnologia](https
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 See ya 👋
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bellps&width=800)](https://open.spotify.com/user/bellps)
+
