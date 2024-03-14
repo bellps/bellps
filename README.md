@@ -27,6 +27,6 @@ I am a computer engineering student and web developer @ [Kazap Tecnologia](https
 
 🎵 And those are my jams!
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bellps&width=800)](https://open.spotify.com/user/bellps)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bellps&width=900&unique=true)](https://open.spotify.com/user/bellps)
 
 See you space cowboy 👋🤠
