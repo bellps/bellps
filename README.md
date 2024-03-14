@@ -25,8 +25,8 @@ I am a computer engineering student and web developer @ [Kazap Tecnologia](https
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-🎵 And those are my jams 
+🎵 And those are my jams!
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bellps&width=800)](https://open.spotify.com/user/bellps)
 
-See ya 👋
+See you space cowboy 👋🤠
