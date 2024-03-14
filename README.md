@@ -1,14 +1,17 @@
-# Hi! I'm Bell <img src="https://dejpknyizje2n.cloudfront.net/marketplace/products/korean-finger-heart-i-love-you-sticker-1540401592.4178452.png" width="30px">
+<span>
+  <img width="300" align="left" src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Ruby/Saber_Alter_Ruby.png" />
+</span>
 
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bellps&show_icons=true&count_private=true&theme=synthwave&hide=issues&hide_border=true&line_height=24&layout=compact&tsdsfs=sdfdsf" />
-</span>
-<span>
+  <h3>Hi! I'm Bell <img  width="20" src="https://dejpknyizje2n.cloudfront.net/marketplace/products/korean-finger-heart-i-love-you-sticker-1540401592.4178452.png" width="30px"> </h3>
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellps&layout=compact&theme=synthwave&count_private=true&hide_border=true&card_width=290&tsdsfs=sdfdsf" />
 </span>
+
 <div>&nbsp;</div>
 
 I am a computer engineering student and web developer @ [Kazap Tecnologia](https://github.com/Kazap) :)
+<br>
 
 🥰 I really like... 
 
@@ -22,7 +25,8 @@ I am a computer engineering student and web developer @ [Kazap Tecnologia](https
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-See ya 👋
+🎵 And those are my jams 
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bellps&width=800)](https://open.spotify.com/user/bellps)
 
+See ya 👋
