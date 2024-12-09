@@ -10,7 +10,7 @@
 
 <div>&nbsp;</div>
 
-I am a computer engineering student and web developer @ [Kazap Tecnologia](https://github.com/Kazap) :)
+I am a computer engineer and web developer @ [Kazap Tecnologia](https://github.com/Kazap) :)
 <br>
 
 🥰 I really like... 
