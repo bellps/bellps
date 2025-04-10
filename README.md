@@ -10,7 +10,7 @@
 
 <div>&nbsp;</div>
 
-I hold a Bachelor's degree in Computer Engineering and currently work as a Mid-level Software Developer at [Kazap Tecnologia](https://github.com/Kazap), focusing on Ruby on Rails development 🙂
+I hold a Bachelor's degree in Computer Engineering and currently work as a Mid-level Software Developer at [Kazap Technologies](https://github.com/Kazap), focusing on Ruby on Rails development 🙂
 
 <br>
 <br>
