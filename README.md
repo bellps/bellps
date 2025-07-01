@@ -1,12 +1,12 @@
 <span>
-  <img width="300" align="left" src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Ruby/Saber_Alter_Ruby.png" />
+  <img width="30%" align="left" src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Ruby/Saber_Alter_Ruby.png" />
 </span>
 
 <span>
   <br>
-  <h3>Hi! I'm Bell <img  width="20" src="https://dejpknyizje2n.cloudfront.net/marketplace/products/korean-finger-heart-i-love-you-sticker-1540401592.4178452.png" width="30px"> </h3>
+  <h3>Hi! I'm Bell <img  width="20px" src="https://dejpknyizje2n.cloudfront.net/marketplace/products/korean-finger-heart-i-love-you-sticker-1540401592.4178452.png"> </h3>
 
-  <img align="center" width="550" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bellps&theme=synthwave&hide_border=true&tsdsfs=sdfdsf" />
+  <img align="center" width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bellps&theme=synthwave&hide_border=true&tsdsfs=sdfdsf" />
 </span>
 
 <div>&nbsp;</div>
