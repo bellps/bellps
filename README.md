@@ -6,7 +6,7 @@
   <br>
   <h3>Hi! I'm Bell <img  width="20" src="https://dejpknyizje2n.cloudfront.net/marketplace/products/korean-finger-heart-i-love-you-sticker-1540401592.4178452.png" width="30px"> </h3>
 
-  <img align="center" width="650" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bellps&theme=synthwave&hide_border=true&tsdsfs=sdfdsf" />
+  <img align="center" width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bellps&theme=synthwave&hide_border=true&tsdsfs=sdfdsf" />
 </span>
 
 <div>&nbsp;</div>
