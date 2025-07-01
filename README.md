@@ -3,16 +3,16 @@
 </span>
 
 <span>
+  <br>
   <h3>Hi! I'm Bell <img  width="20" src="https://dejpknyizje2n.cloudfront.net/marketplace/products/korean-finger-heart-i-love-you-sticker-1540401592.4178452.png" width="30px"> </h3>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bellps&layout=compact&theme=synthwave&count_private=true&hide_border=true&card_width=290&tsdsfs=sdfdsf" />
+  <img align="center" width="650" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bellps&theme=synthwave&hide_border=true&tsdsfs=sdfdsf" />
 </span>
 
 <div>&nbsp;</div>
 
 I hold a Bachelor's degree in Computer Engineering and currently work as a Mid-level Software Developer at [Kazap Technologies](https://github.com/Kazap), focusing on Ruby on Rails development 🙂
 
-<br>
 <br>
 
 🥰 I really like...
