@@ -1,5 +1,6 @@
 <span>
-  <img width="30%" align="left" src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Ruby/Saber_Alter_Ruby.png" />
+  <img width="26%" align="left" alt="Hatsune_Miku_Holding_Python_For_Beginners" src="https://github.com/user-attachments/assets/9a8a3fde-abdb-4dca-94fd-8061aa60a14a" />
+
 </span>
 
 <span>
