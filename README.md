@@ -14,7 +14,6 @@
 I hold a Bachelor's degree in Computer Engineering and currently work as a Mid-level Software Developer at [Afya Digital](https://github.com/afyadigital), focusing on Python development 🙂
 
 <br>
-<br>
 
 🥰 I really like...
 
